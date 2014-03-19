@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: mycampus-impl
+Bundle-SymbolicName: mycampus.impl
+Bundle-Version: 1.0.0
+Bundle-Activator: mycampus.impl.Activator
+Bundle-Vendor: University of Glasgow
+Bundle-Localization: plugin
+Import-Package: org.osgi.framework;version="1.3.0",
+ mycampus, repository
+  
+  
+  
+  
+ 

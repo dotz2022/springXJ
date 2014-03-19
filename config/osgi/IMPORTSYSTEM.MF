@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: importSystem
+Bundle-SymbolicName: importSystem
+Bundle-Version: 1.0.0
+Bundle-Activator: user.Activator
+Bundle-Vendor: University of Glasgow
+Bundle-Localization: plugin
+Import-Package: user,
+  org.osgi.framework;version="1.3.0"

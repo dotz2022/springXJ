@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DashBoard
+Bundle-SymbolicName: dashboard
+Bundle-Version: 1.0.0
+Bundle-Activator: dashboard.Activator
+Bundle-Vendor: University of Glasgow
+Bundle-Localization: plugin
+Import-Package: mycampus, repository, adminmanagement, studentmanagement, lecturermanagement,
+  org.osgi.framework;version="1.3.0"
